@@ -1,0 +1,73 @@
+Index	Fields
+0	Density
+1	Melting Point
+2	Poisson Ratio
+3	Electrical Resistivity
+4	Electrical Conductivity
+5	Thermal Conductivity
+6	CTE
+7	Specific Heat Capacity
+8	Young Modulus
+9	Shear Modulus
+10	Specific Stiffness
+11	Brinell Hardness
+12	Vickers Hardness
+13	Tensile Strength
+14	Yield Strength
+15	Elongation
+16	Specific Yield Strength
+17	Shear Strength
+18	Bearing Strength
+19	Bearing Yield Strength
+20	Fatigue Strength
+21	Fracture Toughness
+22	Charpy Impact
+23	Machinability
+24	shape
+25	price
+26	category
+27	name
+28	temper
+29	Copper
+30	Iron
+31	Magnesium
+32	Manganese
+33	Silicon
+34	Titanium
+35	Vanadium
+36	Zinc
+37	Chromium
+38	Zirconium
+39	Scandium
+40	Beryllium
+41	Aluminum
+42	Carbon
+43	Boron
+44	Cadmium
+45	Cobalt
+46	Lead
+47	Molybdenum
+48	Nickel
+49	Silver
+50	Lithium
+51	Nitrogen
+52	Tin
+53	Bismuth
+54	Antimony
+55	Indium
+56	Niobium
+57	Tungsten
+58	Sulfur
+59	Phosphorus
+60	Selenium
+61	Strontium
+62	Neodymium
+63	Yttrium
+64	Thorium
+65	Cerium
+66	Oxygen
+67	Vanadium
+68	Hydrogen
+69	Tantalum
+70	Palladium
+71	Ruthenium

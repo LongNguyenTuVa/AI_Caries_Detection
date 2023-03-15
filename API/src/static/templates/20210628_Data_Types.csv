@@ -1,0 +1,73 @@
+Index	Fields	SI_unit	English_unit
+0	Density	g/cc	lb/in³
+1	Melting Point	°C	°F
+2	Poisson Ratio		
+3	Electrical Resistivity	ohm-cm	ohm-cm
+4	Electrical Conductivity	%IACS	%IACS
+5	Thermal Conductivity	W/m-K	BTU-in/hr-ft²-°F
+6	CTE	µm/m-°C	µin/in-°F
+7	Specific Heat Capacity	J/g-°C	BTU/lb-°F
+8	Young Modulus	Gpa	ksi
+9	Shear Modulus	Gpa	ksi
+10	Specific Stiffness	Gpa.cc/g	ksi.in³/lb
+11	Brinell Hardness	HB	HB
+12	Vickers Hardness	HV	HV
+13	Tensile Strength	Mpa	ksi
+14	Yield Strength	Mpa	ksi
+15	Elongation	%	%
+16	Specific Yield Strength	Mpa.cc/g	ksi.in³/lb
+17	Shear Strength	Mpa	ksi
+18	Bearing Strength	Mpa	ksi
+19	Bearing Yield Strength	Mpa	ksi
+20	Fatigue Strength	Mpa	ksi
+21	Fracture Toughness	Mpa-m½	ksi-in½ 
+22	Charpy Impact	J	BTU
+23	Machinability	%	%
+24	shape		
+25	price	$/kg	$/lb
+26	category		
+27	name		
+28	temper		
+29	Copper	%	%
+30	Iron	%	%
+31	Magnesium	%	%
+32	Manganese	%	%
+33	Silicon	%	%
+34	Titanium	%	%
+35	Vanadium	%	%
+36	Zinc	%	%
+37	Chromium	%	%
+38	Zirconium	%	%
+39	Scandium	%	%
+40	Beryllium	%	%
+41	Aluminum	%	%
+42	Carbon	%	%
+43	Boron	%	%
+44	Cadmium	%	%
+45	Cobalt	%	%
+46	Lead	%	%
+47	Molybdenum	%	%
+48	Nickel	%	%
+49	Silver	%	%
+50	Lithium	%	%
+51	Nitrogen	%	%
+52	Tin	%	%
+53	Bismuth	%	%
+54	Antimony	%	%
+55	Indium	%	%
+56	Niobium	%	%
+57	Tungsten	%	%
+58	Sulfur	%	%
+59	Phosphorus	%	%
+60	Selenium	%	%
+61	Strontium	%	%
+62	Neodymium	%	%
+63	Yttrium	%	%
+64	Thorium	%	%
+65	Cerium	%	%
+66	Oxygen	%	%
+67	Vanadium	%	%
+68	Hydrogen	%	%
+69	Tantalum	%	%
+70	Palladium	%	%
+71	Ruthenium	%	%

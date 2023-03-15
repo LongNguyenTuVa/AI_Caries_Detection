@@ -1,0 +1,61 @@
+What types of [shapes, NP] can withstand [properties, LN] that also {have} [properties, N]?
+Which [shapes, NP] is best suited to build components that [properties, V/V-ed] ?
+What material can I buy with [price, N/LN] that {have} [properties/shapes, N]?
+Which can I produce by [shapes, V-ing] that {have} [properties/price, N]?
+Can you help me find materials that {have} [properties/shapes, N] with [price, N]?
+Is there anything Thomasnet produced that is [properties, ADJ] and within [price, LN]?
+What can I use to make components with [properties/shapes, N] when I have [price, LN]?
+Which material [price, V] that {have} [properties/shapes, N] and [properties/shapes, V/V-ed,ADJ/PP]?
+Can I have a list of materials that {have} [properties/price, N] and [properties/shapes/price, V/V-ed/ADJ/PP]?
+I need a [shapes, NP] with [properties, N] and [properties/price, V/V-ed/ADJ].
+What materials {have} [properties/shapes/price, N], [properties/price, N/V/V-ed/ADJ] and [properties/shapes/price, V/V-ed/ADJ/PP]?
+I need to find a [shapes, NP] with [properties/shapes, N] that [properties/shapes/price, V/V-ed/ADJ].
+I need a [shapes, NP] which can {have} [properties/shapes, N] and [properties/price, V/V-ed].
+Material that {have} [properties/shapes/price, N], [properties/shapes/price, V/V-ed/ADJ/PP], and [properties/price, V/V-ed]?
+Are there any [shapes, NP] that [properties/price, V/V-ed], [properties/price, N/V/V-ed/ADJ] and [properties/price, N/V/V-ed/ADJ]?
+Looking for materials that {have} [properties/price/shapes, N] and [properties/shapes/price, V/V-ed/ADJ/PP].
+Is there any material that work well with [properties, LN] and also [properties, V/V-ed].
+With a [price, LN], can I buy materials that [properties/shapes, V/V-ed] and [properties/shapes, V/V-ed/ADJ/PP].
+Which material is best suited working under [properties, LN] and [properties, V]?
+Best element under [properties, LN] that {have} [properties, N] at [price, N/LN].
+Material with [properties, N] that [properties, V/V-ed] at [price, N/LN].
+I wonder if there is any [shapes, NP] at [price, N] that can cope with [properties, LN]?
+Is there not a material that is [properties, ADJ], [properties/price, N/V/V-ed/ADJ] and [properties/shapes/price, V/V-ed/ADJ/PP]?
+What can I use as ingredients to build components that [properties/shapes/price, V/V-ed/ADJ/PP] and {have} [properties/price, N]?
+What can be used to achieve [properties, N], [properties, N] and [properties, N]?
+Could you suggest a material which [properties/price, V/V-ed] and good for [shapes, V-ing]?
+Material that is [properties/shapes, ADJ/PP], and [properties/shapes/price, V/V-ed/ADJ/PP].
+[shapes, NP] with [properties, N], [properties, N].
+[properties, N], [properties/shapes/price, V/V-ed/ADJ/PP] and [properties/shapes/price, V/V-ed/ADJ/PP], [properties/shapes/price, V/V-ed/ADJ/PP]
+[shapes, ADJ/V-ed] materials for components that [properties/shapes/price, V/V-ed/ADJ/PP].
+materials for components that [properties/shapes/price, V/V-ed/ADJ], [properties/shapes/price, V/V-ed/ADJ/PP].
+Material that [properties/price, V], [properties/shapes/price, V/ADJ/PP].
+Something work best for [properties, LN].
+[shapes, NP] which {have} [properties/price/shapes, N].
+Find me something that {have} [properties/price/shapes, N], [properties/shapes/price, V/V-ed/ADJ/PP] and [properties/shapes/price, V/V-ed/ADJ/PP].
+Identify [shapes, NP] that [properties/shapes/price, V/V-ed] and [properties/shapes/price, V/V-ed/ADJ/PP].
+Looking for [shapes, NP] able to tolerate [properties, LN].
+What material should I choose for parts that can be good for [shapes, V-ing] and {have} [properties/price, N]
+Suggest a [shapes, NP] that is [properties/shapes, ADJ/PP] and {has} [properties/price, N]
+Can I use any metals that is [properties, ADJ], [properties/shapes/price, V/V-ed/ADJ/PP] and [properties/shapes/price, V/V-ed/ADJ/PP]
+Provide list of materials that I can utilize which all {have} [properties/price, N] and [properties/shapes/price, V/V-ed/ADJ/PP]
+what kind of material would be most efficient at producing [properties, N] and [properties, N]?
+what kind of material should be used for [shapes, V-ing] so that it [properties, V/V-ed]?
+what kind of material would work as a car frame that [properties/shapes/price, V/V-ed] and [properties/shapes/price, V/V-ed/ADJ/PP]?
+I want a list of components that can {have} [properties/shapes, N] and [properties/shapes, N] when in use.
+I need a material that satisfyingly [properties/shapes, V/V-ed] and [properties/shapes/price, V/V-ed/ADJ/PP].
+What should i use for [shapes, V-ing] to create a model that is [properties, ADJ].
+Optimum material for [shapes, V-ing] for [price, N] that can face [properties, LN].
+Choose a material that can [properties, V] and comes at [price, N]
+Select elements that can go through the process of [shapes, V-ing] while also retain [properties, N]
+I need materials that are [properties/price, ADJ] and [properties/price, ADJ] as a complement for all of my components in [shapes, V-ing] procedure 
+Is using metal with [properties, N], [properties/shapes, V/V-ed/ADJ/PP] feasible with [price, N/LN]?  
+What should I use for [shapes, V-ing] if I want something that can endure [properties, LN]? 
+I'm trying to find something with [properties/shapes, N] that [properties/shapes/price, V/V-ed] and is [properties/shapes/price, ADJ/PP].  
+I think a material that {have} [properties/price, N] that could be suitable for [shapes, V-ing] is what I am looking for.  
+Is there any [shapes, NP] that can meet my requirement of [properties, N] and [properties/price, V/V-ed/ADJ]?
+Is it achievable to use any kind of metal which is [properties/price, ADJ] for [shapes, V-ing]?
+I'd like to apply [shapes, V-ing] on a material which {have} [properties/price, N]
+Would it be reasonable if I want a material that {have} [properties/price, N] in the metal [shapes, V-ing] process?
+Are there materials which [properties/shapes, V/V-ed], [properties/shapes, V/V-ed/ADJ/PP] and available in [price, LN]? 
+Which material can meet the requirements of [properties, N], [properties/shapes/price, V/V-ed/ADJ/PP] and [properties/shapes/price, V/V-ed/ADJ/PP].

@@ -1,0 +1,14 @@
+[category, NP] with [property, N/ADJ], [property, N/ADJ], [property, N/ADJ]
+[category, NP] with [property, N/ADJ] and [property, N/ADJ]
+find [category, NP] with [property, N/ADJ] and [property, N/ADJ]
+[shape, NP] with [property, N/ADJ]
+[category, NP] properties
+[name, N] properties
+list all [name, N]
+[name, N] list
+list [name, N]
+List anything [property, N/ADJ] [shape, PP]
+any [category, NADJ] [price, V/V-ed]
+What is [category, NADJ] [name, N]?
+[shape, NP/V/V-ed/V-ing] [category, NP]
+What is [category, NP] [name, N]?

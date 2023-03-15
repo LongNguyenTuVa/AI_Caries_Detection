@@ -1,0 +1,49 @@
+Index	Fields
+0	Density
+1	Tensile Modulus
+2	Flexural Strength
+3	Poissons Ratio
+4	Shear Modulus
+5	Electrical Resistivity
+6	CTE, linear
+7	Specific Heat Capacity
+8	Thermal Conductivity
+9	Specific Stiffness
+10	Electrical Conductivity
+11	Tensile Strength, Ultimate
+12	Hardness, Brinell
+13	Tensile Strength, Yield
+14	Elongation at Break
+15	Shear Strength
+16	Heat of Fusion
+17	Melting Point
+18	Solidus
+19	Liquidus
+20	Specific Yield Strength
+21	Fatigue Strength
+22	Annealing Temperature
+23	Machinability
+24	Ultimate Bearing Strength
+25	Bearing Yield Strength
+26	Emissivity (0-1)
+27	Reflection Coefficient, Visible (0-1)
+28	Notched Tensile Strength
+29	Solution Temperature
+30	Hardness, Knoop
+31	Hardness, Rockwell A
+32	Hardness, Rockwell B
+33	Hardness, Vickers
+34	Aging Temperature
+35	Compressive Strength
+36	Compressive Modulus
+37	Fracture Toughness
+38	Compressive Yield Strength
+39	Charpy Impact
+40	Magnetic Susceptibility
+41	Elongation at Yield
+42	Hot-Working Temperature
+43	Charpy Impact, Unnotched
+44	Casting Temperature
+45	Maximum Service Temperature, Air
+46	shapes
+47	price

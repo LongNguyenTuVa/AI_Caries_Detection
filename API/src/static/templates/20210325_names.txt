@@ -1,0 +1,1372 @@
+91Pb-9Sb (UNS L53305)
+UNS L53305
+92Pb-8Sb (UNS L53230) Cold-Rolled
+UNS L53230
+92Pb-8Sb (UNS L53230) Heat Treated
+UNS L53230
+94Pb-6Sb (UNS L53105) Chill Cast
+UNS L53105
+94Pb-6Sb (UNS L53105) Cold Rolled
+UNS L53105
+94Pb-6Sb (UNS L53105) Extruded
+UNS L53105
+96Pb-4Sb (UNS L52901) Cold-Rolled
+UNS L52901
+96Pb-4Sb (UNS L52901) Heat Treated
+UNS L52901
+Aluminum 6351-T4
+Aluminum Alloy (AA1050-H14)
+AA1050-H14
+Aluminum Alloy (AA1050-H16)
+AA1050-H16
+Aluminum Alloy (AA1050-H18)
+AA1050-H18
+Aluminum Alloy (AA1050-O)
+AA1050-O
+Aluminum Alloy (AA1060-H112)
+AA1060-H112
+Aluminum Alloy (AA1060-H12)
+AA1060-H12
+Aluminum Alloy (AA1060-H14)
+AA1060-H14
+Aluminum Alloy (AA1060-H16)
+AA1060-H16
+Aluminum Alloy (AA1060-H18)
+AA1060-H18
+Aluminum Alloy (AA1060-O)
+AA1060-O
+Aluminum Alloy (AA1100-H112)
+AA1100-H112
+Aluminum Alloy (AA1100-H12)
+AA1100-H12
+Aluminum Alloy (AA1100-H14)
+AA1100-H14
+Aluminum Alloy (AA1100-H16)
+AA1100-H16
+Aluminum Alloy (AA1100-H18)
+AA1100-H18
+Aluminum Alloy (AA1100-H19)
+AA1100-H19
+Aluminum Alloy (AA1100-O)
+AA1100-O
+Aluminum Alloy (AA1145-H18)
+AA1145-H18
+Aluminum Alloy (AA1145-H19)
+AA1145-H19
+Aluminum Alloy (AA1145-O)
+AA1145-O
+Aluminum Alloy (AA1180-H18)
+AA1180-H18
+Aluminum Alloy (AA1180-O)
+AA1180-O
+Aluminum Alloy (AA1199-H18)
+AA1199-H18
+Aluminum Alloy (AA1199-O)
+AA1199-O
+Aluminum Alloy (AA1235-H19)
+AA1235-H19
+Aluminum Alloy (AA1235-O)
+AA1235-O
+Aluminum Alloy (AA1350-H111)
+AA1350-H111
+Aluminum Alloy (AA1350-H112)
+AA1350-H112
+Aluminum Alloy (AA1350-H12)
+AA1350-H12
+Aluminum Alloy (AA1350-H14)
+AA1350-H14
+Aluminum Alloy (AA1350-H16)
+AA1350-H16
+Aluminum Alloy (AA1350-H18)
+AA1350-H18
+Aluminum Alloy (AA1350-H19)
+AA1350-H19
+Aluminum Alloy (AA1350-O)
+AA1350-O
+Aluminum Alloy (AA1370-O)
+AA1370-O
+Aluminum Alloy (AA2007-O)
+AA2007-O
+Aluminum Alloy (AA2007-T4)
+AA2007-T4
+Aluminum Alloy (AA2011-T3)
+AA2011-T3
+Aluminum Alloy (AA2011-T4)
+AA2011-T4
+Aluminum Alloy (AA2011-T6)
+AA2011-T6
+Aluminum Alloy (AA2011-T8)
+AA2011-T8
+Aluminum Alloy (AA2014-O)
+AA2014-O
+Aluminum Alloy (AA2014-T3)
+AA2014-T3
+Aluminum Alloy (AA2014-T4)
+AA2014-T4
+Aluminum Alloy (AA2014-T6)
+AA2014-T6
+Aluminum Alloy (AA2017-O)
+AA2017-O
+Aluminum Alloy (AA2017-T4)
+AA2017-T4
+Aluminum Alloy (AA2018-T61)
+AA2018-T61
+Aluminum Alloy (AA2024-O)
+AA2024-O
+Aluminum Alloy (AA2024-T3)
+AA2024-T3
+Aluminum Alloy (AA2024-T361)
+AA2024-T361
+Aluminum Alloy (AA2024-T4)
+AA2024-T4
+Aluminum Alloy (AA2024-T6)
+AA2024-T6
+Aluminum Alloy (AA2024-T72)
+AA2024-T72
+Aluminum Alloy (AA2024-T81)
+AA2024-T81
+Aluminum Alloy (AA2024-T851)
+AA2024-T851
+Aluminum Alloy (AA2024-T86)
+AA2024-T86
+Aluminum Alloy (AA2024-T861)
+AA2024-T861
+Aluminum Alloy (AA2025-T6)
+AA2025-T6
+Aluminum Alloy (AA2030-T3)
+AA2030-T3
+Aluminum Alloy (AA2030-T351)
+AA2030-T351
+Aluminum Alloy (AA2030-T4)
+AA2030-T4
+Aluminum Alloy (AA2036-T4)
+AA2036-T4
+Aluminum Alloy (AA2048-T851)
+AA2048-T851
+Aluminum Alloy (AA2090-O)
+AA2090-O
+Aluminum Alloy (AA2090-T3)
+AA2090-T3
+Aluminum Alloy (AA2090-T83)
+AA2090-T83
+Aluminum Alloy (AA2090-T84)
+AA2090-T84
+Aluminum Alloy (AA2117-T4)
+AA2117-T4
+Aluminum Alloy (AA2124-O)
+AA2124-O
+Aluminum Alloy (AA2124-T3)
+AA2124-T3
+Aluminum Alloy (AA2124-T851)
+AA2124-T851
+Aluminum Alloy (AA2218-T61)
+AA2218-T61
+Aluminum Alloy (AA2218-T71)
+AA2218-T71
+Aluminum Alloy (AA2218-T72)
+AA2218-T72
+Aluminum Alloy (AA2219-O)
+AA2219-O
+Aluminum Alloy (AA2219-T31)
+AA2219-T31
+Aluminum Alloy (AA2219-T351)
+AA2219-T351
+Aluminum Alloy (AA2219-T37)
+AA2219-T37
+Aluminum Alloy (AA2219-T42)
+AA2219-T42
+Aluminum Alloy (AA2219-T6)
+AA2219-T6
+Aluminum Alloy (AA2219-T62)
+AA2219-T62
+Aluminum Alloy (AA2219-T81)
+AA2219-T81
+Aluminum Alloy (AA2219-T851)
+AA2219-T851
+Aluminum Alloy (AA2219-T87)
+AA2219-T87
+Aluminum Alloy (AA2319 - O)
+AA2319 - O
+Aluminum Alloy (AA2324-T39)
+AA2324-T39
+Aluminum Alloy (AA2618-T6)
+AA2618-T6
+Aluminum Alloy (AA2618-T61)
+AA2618-T61
+Aluminum Alloy (AA3003-H112)
+AA3003-H112
+Aluminum Alloy (AA3003-H12)
+AA3003-H12
+Aluminum Alloy (AA3003-H14)
+AA3003-H14
+Aluminum Alloy (AA3003-H16)
+AA3003-H16
+Aluminum Alloy (AA3003-H18)
+AA3003-H18
+Aluminum Alloy (AA3003-H19)
+AA3003-H19
+Aluminum Alloy (AA3003-O)
+AA3003-O
+Aluminum Alloy (AA3004-H112)
+AA3004-H112
+Aluminum Alloy (AA3004-H19)
+AA3004-H19
+Aluminum Alloy (AA3004-H32)
+AA3004-H32
+Aluminum Alloy (AA3004-H34)
+AA3004-H34
+Aluminum Alloy (AA3004-H36)
+AA3004-H36
+Aluminum Alloy (AA3004-H38)
+AA3004-H38
+Aluminum Alloy (AA3004-O)
+AA3004-O
+Aluminum Alloy (AA3005-H14)
+AA3005-H14
+Aluminum Alloy (AA3005-H18)
+AA3005-H18
+Aluminum Alloy (AA3005-O)
+AA3005-O
+Aluminum Alloy (AA3013-H14)
+AA3013-H14
+Aluminum Alloy (AA3102-H112)
+AA3102-H112
+Aluminum Alloy (AA3102-O)
+AA3102-O
+Aluminum Alloy (AA3104-H19)
+AA3104-H19
+Aluminum Alloy (AA3105-H12)
+AA3105-H12
+Aluminum Alloy (AA3105-H14)
+AA3105-H14
+Aluminum Alloy (AA3105-H16)
+AA3105-H16
+Aluminum Alloy (AA3105-H18)
+AA3105-H18
+Aluminum Alloy (AA3105-H22)
+AA3105-H22
+Aluminum Alloy (AA3105-H24)
+AA3105-H24
+Aluminum Alloy (AA3105-H25)
+AA3105-H25
+Aluminum Alloy (AA3105-H26)
+AA3105-H26
+Aluminum Alloy (AA3105-H28)
+AA3105-H28
+Aluminum Alloy (AA3105-O)
+AA3105-O
+Aluminum Alloy (AA4015-H14)
+AA4015-H14
+Aluminum Alloy (AA4032-O)
+AA4032-O
+Aluminum Alloy (AA4032-T6)
+AA4032-T6
+Aluminum Alloy (AA4043-H14)
+AA4043-H14
+Aluminum Alloy (AA4043-H16)
+AA4043-H16
+Aluminum Alloy (AA4043-H18)
+AA4043-H18
+Aluminum Alloy (AA4043-O)
+AA4043-O
+Aluminum Alloy (AA5005-H12)
+AA5005-H12
+Aluminum Alloy (AA5005-H14)
+AA5005-H14
+Aluminum Alloy (AA5005-H16)
+AA5005-H16
+Aluminum Alloy (AA5005-H18)
+AA5005-H18
+Aluminum Alloy (AA5005-H32)
+AA5005-H32
+Aluminum Alloy (AA5005-H34)
+AA5005-H34
+Aluminum Alloy (AA5005-H36)
+AA5005-H36
+Aluminum Alloy (AA5005-H38)
+AA5005-H38
+Aluminum Alloy (AA5005-O)
+AA5005-O
+Aluminum Alloy (AA5028-H116)
+AA5028-H116
+Aluminum Alloy (AA5042-H19)
+AA5042-H19
+Aluminum Alloy (AA5050-H32)
+AA5050-H32
+Aluminum Alloy (AA5050-H34)
+AA5050-H34
+Aluminum Alloy (AA5050-H36)
+AA5050-H36
+Aluminum Alloy (AA5050-H38)
+AA5050-H38
+Aluminum Alloy (AA5050-O)
+AA5050-O
+Aluminum Alloy (AA5052-H19)
+AA5052-H19
+Aluminum Alloy (AA5052-H32)
+AA5052-H32
+Aluminum Alloy (AA5052-H34)
+AA5052-H34
+Aluminum Alloy (AA5052-H36)
+AA5052-H36
+Aluminum Alloy (AA5052-H38)
+AA5052-H38
+Aluminum Alloy (AA5052-O)
+AA5052-O
+Aluminum Alloy (AA5056-H18)
+AA5056-H18
+Aluminum Alloy (AA5056-H19)
+AA5056-H19
+Aluminum Alloy (AA5056-H38)
+AA5056-H38
+Aluminum Alloy (AA5056-O)
+AA5056-O
+Aluminum Alloy (AA5082-H19)
+AA5082-H19
+Aluminum Alloy (AA5083-H112)
+AA5083-H112
+Aluminum Alloy (AA5083-H116)
+AA5083-H116
+Aluminum Alloy (AA5083-H32)
+AA5083-H32
+Aluminum Alloy (AA5083-H34)
+AA5083-H34
+Aluminum Alloy (AA5083-O)
+AA5083-O
+Aluminum Alloy (AA5086-H112)
+AA5086-H112
+Aluminum Alloy (AA5086-H116)
+AA5086-H116
+Aluminum Alloy (AA5086-H34)
+AA5086-H34
+Aluminum Alloy (AA5086-H36)
+AA5086-H36
+Aluminum Alloy (AA5086-H38)
+AA5086-H38
+Aluminum Alloy (AA5086-O)
+AA5086-O
+Aluminum Alloy (AA5154-H112)
+AA5154-H112
+Aluminum Alloy (AA5154-H32)
+AA5154-H32
+Aluminum Alloy (AA5154-H34)
+AA5154-H34
+Aluminum Alloy (AA5154-H36)
+AA5154-H36
+Aluminum Alloy (AA5154-H38)
+AA5154-H38
+Aluminum Alloy (AA5154-O)
+AA5154-O
+Aluminum Alloy (AA5182-H19)
+AA5182-H19
+Aluminum Alloy (AA5182-H32)
+AA5182-H32
+Aluminum Alloy (AA5182-H34)
+AA5182-H34
+Aluminum Alloy (AA5182-O)
+AA5182-O
+Aluminum Alloy (AA5251-H32)
+AA5251-H32
+Aluminum Alloy (AA5251-H34)
+AA5251-H34
+Aluminum Alloy (AA5251-H36)
+AA5251-H36
+Aluminum Alloy (AA5251-H38)
+AA5251-H38
+Aluminum Alloy (AA5251-O)
+AA5251-O
+Aluminum Alloy (AA5252-H25)
+AA5252-H25
+Aluminum Alloy (AA5252-H28)
+AA5252-H28
+Aluminum Alloy (AA5252-H38)
+AA5252-H38
+Aluminum Alloy (AA5252-O)
+AA5252-O
+Aluminum Alloy (AA5254-H112)
+AA5254-H112
+Aluminum Alloy (AA5254-H32)
+AA5254-H32
+Aluminum Alloy (AA5254-H34)
+AA5254-H34
+Aluminum Alloy (AA5254-H36)
+AA5254-H36
+Aluminum Alloy (AA5254-H38)
+AA5254-H38
+Aluminum Alloy (AA5254-O)
+AA5254-O
+Aluminum Alloy (AA5356-O)
+AA5356-O
+Aluminum Alloy (AA5383-H321)
+AA5383-H321
+Aluminum Alloy (AA5454-H111)
+AA5454-H111
+Aluminum Alloy (AA5454-H112)
+AA5454-H112
+Aluminum Alloy (AA5454-H32)
+AA5454-H32
+Aluminum Alloy (AA5454-H34)
+AA5454-H34
+Aluminum Alloy (AA5454-H38)
+AA5454-H38
+Aluminum Alloy (AA5454-O)
+AA5454-O
+Aluminum Alloy (AA5456-H111)
+AA5456-H111
+Aluminum Alloy (AA5456-H112)
+AA5456-H112
+Aluminum Alloy (AA5456-H116)
+AA5456-H116
+Aluminum Alloy (AA5456-H24)
+AA5456-H24
+Aluminum Alloy (AA5456-H25)
+AA5456-H25
+Aluminum Alloy (AA5456-O)
+AA5456-O
+Aluminum Alloy (AA5457-H25)
+AA5457-H25
+Aluminum Alloy (AA5457-H28)
+AA5457-H28
+Aluminum Alloy (AA5457-O)
+AA5457-O
+Aluminum Alloy (AA5652-H32)
+AA5652-H32
+Aluminum Alloy (AA5652-H34)
+AA5652-H34
+Aluminum Alloy (AA5652-H36)
+AA5652-H36
+Aluminum Alloy (AA5652-H38)
+AA5652-H38
+Aluminum Alloy (AA5652-O)
+AA5652-O
+Aluminum Alloy (AA5657-H25)
+AA5657-H25
+Aluminum Alloy (AA5657-H28)
+AA5657-H28
+Aluminum Alloy (AA5657-O)
+AA5657-O
+Aluminum Alloy (AA5754-H22)
+AA5754-H22
+Aluminum Alloy (AA5754-H24)
+AA5754-H24
+Aluminum Alloy (AA5754-H26)
+AA5754-H26
+Aluminum Alloy (AA6005-T1)
+AA6005-T1
+Aluminum Alloy (AA6005-T5)
+AA6005-T5
+Aluminum Alloy (AA6009-T4)
+AA6009-T4
+Aluminum Alloy (AA6009-T6)
+AA6009-T6
+Aluminum Alloy (AA6010-T4)
+AA6010-T4
+Aluminum Alloy (AA6013-T651)
+AA6013-T651
+Aluminum Alloy (AA6013-T8)
+AA6013-T8
+Aluminum Alloy (AA6020-T651)
+AA6020-T651
+Aluminum Alloy (AA6020-T8)
+AA6020-T8
+Aluminum Alloy (AA6020-T9)
+AA6020-T9
+Aluminum Alloy (AA6053-O)
+AA6053-O
+Aluminum Alloy (AA6053-T4)
+AA6053-T4
+Aluminum Alloy (AA6053-T6)
+AA6053-T6
+Aluminum Alloy (AA6061-O)
+AA6061-O
+Aluminum Alloy (AA6061-T4)
+AA6061-T4
+Aluminum Alloy (AA6061-T6)
+AA6061-T6
+Aluminum Alloy (AA6061-T8)
+AA6061-T8
+Aluminum Alloy (AA6061-T91)
+AA6061-T91
+Aluminum Alloy (AA6061-T913)
+AA6061-T913
+Aluminum Alloy (AA6063-O)
+AA6063-O
+Aluminum Alloy (AA6063-T1)
+AA6063-T1
+Aluminum Alloy (AA6063-T4)
+AA6063-T4
+Aluminum Alloy (AA6063-T5)
+AA6063-T5
+Aluminum Alloy (AA6063-T6)
+AA6063-T6
+Aluminum Alloy (AA6063-T83)
+AA6063-T83
+Aluminum Alloy (AA6063-T831)
+AA6063-T831
+Aluminum Alloy (AA6063-T832)
+AA6063-T832
+Aluminum Alloy (AA6066-T4)
+AA6066-T4
+Aluminum Alloy (AA6066-T6)
+AA6066-T6
+Aluminum Alloy (AA6069-O)
+AA6069-O
+Aluminum Alloy (AA6069-T4)
+AA6069-T4
+Aluminum Alloy (AA6070-O)
+AA6070-O
+Aluminum Alloy (AA6070-T4)
+AA6070-T4
+Aluminum Alloy (AA6070-T6)
+AA6070-T6
+Aluminum Alloy (AA6082-O)
+AA6082-O
+Aluminum Alloy (AA6082-T4)
+AA6082-T4
+Aluminum Alloy (AA6082-T6)
+AA6082-T6
+Aluminum Alloy (AA6101-H111)
+AA6101-H111
+Aluminum Alloy (AA6101-T6)
+AA6101-T6
+Aluminum Alloy (AA6101-T61)
+AA6101-T61
+Aluminum Alloy (AA6101-T63)
+AA6101-T63
+Aluminum Alloy (AA6101-T64)
+AA6101-T64
+Aluminum Alloy (AA6101-T65)
+AA6101-T65
+Aluminum Alloy (AA6105-T1)
+AA6105-T1
+Aluminum Alloy (AA6105-T5)
+AA6105-T5
+Aluminum Alloy (AA6151-O)
+AA6151-O
+Aluminum Alloy (AA6151-T4)
+AA6151-T4
+Aluminum Alloy (AA6151-T6)
+AA6151-T6
+Aluminum Alloy (AA6201-T6)
+AA6201-T6
+Aluminum Alloy (AA6201-T81)
+AA6201-T81
+Aluminum Alloy (AA6205-T1)
+AA6205-T1
+Aluminum Alloy (AA6205-T5)
+AA6205-T5
+Aluminum Alloy (AA6262-T6)
+AA6262-T6
+Aluminum Alloy (AA6262-T651)
+AA6262-T651
+Aluminum Alloy (AA6262-T8)
+AA6262-T8
+Aluminum Alloy (AA6262-T9)
+AA6262-T9
+Aluminum Alloy (AA6351-T4)
+AA6351-T4
+Aluminum Alloy (AA6351-T54)
+AA6351-T54
+Aluminum Alloy (AA6351-T6)
+AA6351-T6
+Aluminum Alloy (AA6463-O)
+AA6463-O
+Aluminum Alloy (AA6463-T1)
+AA6463-T1
+Aluminum Alloy (AA6463-T4)
+AA6463-T4
+Aluminum Alloy (AA6463-T5)
+AA6463-T5
+Aluminum Alloy (AA6463-T6)
+AA6463-T6
+Aluminum Alloy (AA6951-O)
+AA6951-O
+Aluminum Alloy (AA6951-T6)
+AA6951-T6
+Aluminum Alloy (AA7001-O)
+AA7001-O
+Aluminum Alloy (AA7001-T6)
+AA7001-T6
+Aluminum Alloy (AA7001-T75)
+AA7001-T75
+Aluminum Alloy (AA7005-O)
+AA7005-O
+Aluminum Alloy (AA7005-T53)
+AA7005-T53
+Aluminum Alloy (AA7005-T6)
+AA7005-T6
+Aluminum Alloy (AA7016-T5)
+AA7016-T5
+Aluminum Alloy (AA7020-T6)
+AA7020-T6
+Aluminum Alloy (AA7020-T651)
+AA7020-T651
+Aluminum Alloy (AA7021-T62)
+AA7021-T62
+Aluminum Alloy (AA7029-T5)
+AA7029-T5
+Aluminum Alloy (AA7034-T6)
+AA7034-T6
+Aluminum Alloy (AA7039-O)
+AA7039-O
+Aluminum Alloy (AA7039-T61)
+AA7039-T61
+Aluminum Alloy (AA7039-T64)
+AA7039-T64
+Aluminum Alloy (AA7049-T352)
+AA7049-T352
+Aluminum Alloy (AA7049-T73)
+AA7049-T73
+Aluminum Alloy (AA7050-T73511)
+AA7050-T73511
+Aluminum Alloy (AA7050-T73651)
+AA7050-T73651
+Aluminum Alloy (AA7050-T73652)
+AA7050-T73652
+Aluminum Alloy (AA7050-T74)
+AA7050-T74
+Aluminum Alloy (AA7050-T7451)
+AA7050-T7451
+Aluminum Alloy (AA7050-T7651)
+AA7050-T7651
+Aluminum Alloy (AA7068-T6)
+AA7068-T6
+Aluminum Alloy (AA7068-T76)
+AA7068-T76
+Aluminum Alloy (AA7072-H113)
+AA7072-H113
+Aluminum Alloy (AA7072-H12)
+AA7072-H12
+Aluminum Alloy (AA7072-H14)
+AA7072-H14
+Aluminum Alloy (AA7072-O)
+AA7072-O
+Aluminum Alloy (AA7075-O)
+AA7075-O
+Aluminum Alloy (AA7075-T6)
+AA7075-T6
+Aluminum Alloy (AA7075-T73)
+AA7075-T73
+Aluminum Alloy (AA7075-T76)
+AA7075-T76
+Aluminum Alloy (AA7076-T61)
+AA7076-T61
+Aluminum Alloy (AA7150-T7751)
+AA7150-T7751
+Aluminum Alloy (AA7150-T77511)
+AA7150-T77511
+Aluminum Alloy (AA7175-T66)
+AA7175-T66
+Aluminum Alloy (AA7175-T7351)
+AA7175-T7351
+Aluminum Alloy (AA7175-T736)
+AA7175-T736
+Aluminum Alloy (AA7175-T74)
+AA7175-T74
+Aluminum Alloy (AA7178-O)
+AA7178-O
+Aluminum Alloy (AA7178-T6)
+AA7178-T6
+Aluminum Alloy (AA7178-T76)
+AA7178-T76
+Aluminum Alloy (AA7475-T61)
+AA7475-T61
+Aluminum Alloy (AA7475-T651)
+AA7475-T651
+Aluminum Alloy (AA7475-T7351)
+AA7475-T7351
+Aluminum Alloy (AA7475-T76)
+AA7475-T76
+Aluminum Alloy (AA7475-T761)
+AA7475-T761
+Aluminum Alloy (AA7475-T7651)
+AA7475-T7651
+Aluminum Alloy (AA8001-H18)
+AA8001-H18
+Aluminum Alloy (AA8001-O)
+AA8001-O
+Aluminum Alloy (AA8009-O)
+AA8009-O
+Aluminum Alloy (AA8017-H12)
+AA8017-H12
+Aluminum Alloy (AA8017-H212)
+AA8017-H212
+Aluminum Alloy (AA8017-H22)
+AA8017-H22
+Aluminum Alloy (AA8030-H221)
+AA8030-H221
+Aluminum Alloy (AA8081-H112)
+AA8081-H112
+Aluminum Alloy (AA8081-H25)
+AA8081-H25
+Aluminum Alloy (AA8090-T651)
+AA8090-T651
+Aluminum Alloy (AA8090-T8771)
+AA8090-T8771
+Aluminum Alloy (AA8176-H24)
+AA8176-H24
+Aluminum Alloy (AA8280-H18)
+AA8280-H18
+Aluminum Alloy (AA8280-O)
+AA8280-O
+Aluminum Casting (201.0-T4, Sand Cast)
+201.0-T4, Sand Cast
+Aluminum Casting (201.0-T6)
+201.0-T6
+Aluminum Casting (201.0-T7, Sand Cast)
+201.0-T7, Sand Cast
+Aluminum Casting (204.0-T4, Permanent Mold Cast)
+204.0-T4, Permanent Mold Cast
+Aluminum Casting (204.0-T4, Sand Cast)
+204.0-T4, Sand Cast
+Aluminum Casting (204.0-T6, Permanent Mold Cast)
+204.0-T6, Permanent Mold Cast
+Aluminum Casting (204.0-T6, Sand Cast)
+204.0-T6, Sand Cast
+Aluminum Casting (208.0-F, Sand Cast)
+208.0-F, Sand Cast
+Aluminum Casting (208.0-T4, Permanent Mold Cast)
+208.0-T4, Permanent Mold Cast
+Aluminum Casting (208.0-T6, Permanent Mold Cast)
+208.0-T6, Permanent Mold Cast
+Aluminum Casting (208.0-T7, Permanent Mold Cast)
+208.0-T7, Permanent Mold Cast
+Aluminum Casting (222.0-O, Sand Cast)
+222.0-O, Sand Cast
+Aluminum Casting (222.0-T551, Permanent Mold Cast)
+222.0-T551, Permanent Mold Cast
+Aluminum Casting (222.0-T61, Sand Cast)
+222.0-T61, Sand Cast
+Aluminum Casting (222.0-T65, Permanent Mold Cast)
+222.0-T65, Permanent Mold Cast
+Aluminum Casting (240.0-F)
+240.0-F
+Aluminum Casting (242.0-O, Sand Cast)
+242.0-O, Sand Cast
+Aluminum Casting (242.0-T571, Permanent Mold Cast)
+242.0-T571, Permanent Mold Cast
+Aluminum Casting (242.0-T571, Sand Cast)
+242.0-T571, Sand Cast
+Aluminum Casting (242.0-T61, Permanent Mold Cast)
+242.0-T61, Permanent Mold Cast
+Aluminum Casting (242.0-T61, Sand Cast)
+242.0-T61, Sand Cast
+Aluminum Casting (242.0-T77, Sand Cast)
+242.0-T77, Sand Cast
+Aluminum Casting (295.0-T4, Sand Cast)
+295.0-T4, Sand Cast
+Aluminum Casting (295.0-T6, Sand Cast)
+295.0-T6, Sand Cast
+Aluminum Casting (295.0-T62, Sand Cast)
+295.0-T62, Sand Cast
+Aluminum Casting (295.0-T7, Sand Cast)
+295.0-T7, Sand Cast
+Aluminum Casting (296.0-T4, Cast)
+296.0-T4, Cast
+Aluminum Casting (296.0-T6, Permanent Mold Cast)
+296.0-T6, Permanent Mold Cast
+Aluminum Casting (296.0-T7, Cast)
+296.0-T7, Cast
+Aluminum Casting (308.0-F, Permanent Mold Cast)
+308.0-F, Permanent Mold Cast
+Aluminum Casting (319.0-F, Permanent Mold Cast)
+319.0-F, Permanent Mold Cast
+Aluminum Casting (319.0-F, Sand Cast)
+319.0-F, Sand Cast
+Aluminum Casting (319.0-T5, Sand Cast)
+319.0-T5, Sand Cast
+Aluminum Casting (319.0-T6, Permanent Mold Cast)
+319.0-T6, Permanent Mold Cast
+Aluminum Casting (319.0-T6, Sand Cast)
+319.0-T6, Sand Cast
+Aluminum Casting (328.0-F, Sand Cast)
+328.0-F, Sand Cast
+Aluminum Casting (328.0-T6, Sand Cast)
+328.0-T6, Sand Cast
+Aluminum Casting (332.0-T5, Permanent Mold Cast)
+332.0-T5, Permanent Mold Cast
+Aluminum Casting (333.0-F, Permanent Mold Cast)
+333.0-F, Permanent Mold Cast
+Aluminum Casting (333.0-T5, Permanent Mold Cast)
+333.0-T5, Permanent Mold Cast
+Aluminum Casting (333.0-T6, Permanent Mold Cast)
+333.0-T6, Permanent Mold Cast
+Aluminum Casting (333.0-T7, Permanent Mold Cast)
+333.0-T7, Permanent Mold Cast
+Aluminum Casting (336.0-T551, Permanent Mold Cast)
+336.0-T551, Permanent Mold Cast
+Aluminum Casting (336.0-T65, Permanent Mold Cast)
+336.0-T65, Permanent Mold Cast
+Aluminum Casting (354.0-T61, Permanent Mold Cast)
+354.0-T61, Permanent Mold Cast
+Aluminum Casting (354.0-T62, Permanent Mold Cast)
+354.0-T62, Permanent Mold Cast
+Aluminum Casting (355.0-T51, Permanent Mold Cast)
+355.0-T51, Permanent Mold Cast
+Aluminum Casting (355.0-T51, Sand Cast)
+355.0-T51, Sand Cast
+Aluminum Casting (355.0-T6, Permanent Mold Cast)
+355.0-T6, Permanent Mold Cast
+Aluminum Casting (355.0-T6, Sand Cast)
+355.0-T6, Sand Cast
+Aluminum Casting (355.0-T61, Cast)
+355.0-T61, Cast
+Aluminum Casting (355.0-T62, Permanent Mold Cast)
+355.0-T62, Permanent Mold Cast
+Aluminum Casting (355.0-T7, Permanent Mold Cast)
+355.0-T7, Permanent Mold Cast
+Aluminum Casting (355.0-T7, Sand Cast)
+355.0-T7, Sand Cast
+Aluminum Casting (355.0-T71, Permanent Mold Cast)
+355.0-T71, Permanent Mold Cast
+Aluminum Casting (355.0-T71, Sand Cast)
+355.0-T71, Sand Cast
+Aluminum Casting (356.0-F, Permanent Mold Cast)
+356.0-F, Permanent Mold Cast
+Aluminum Casting (356.0-F, Sand Cast)
+356.0-F, Sand Cast
+Aluminum Casting (356.0-T51, Permanent Mold Cast)
+356.0-T51, Permanent Mold Cast
+Aluminum Casting (356.0-T51, Sand Cast)
+356.0-T51, Sand Cast
+Aluminum Casting (356.0-T6, Permanent Mold Cast)
+356.0-T6, Permanent Mold Cast
+Aluminum Casting (356.0-T6, Sand Cast)
+356.0-T6, Sand Cast
+Aluminum Casting (356.0-T7, Permanent Mold Cast)
+356.0-T7, Permanent Mold Cast
+Aluminum Casting (356.0-T7, Sand Cast)
+356.0-T7, Sand Cast
+Aluminum Casting (356.0-T71, Permanent Mold Cast)
+356.0-T71, Permanent Mold Cast
+Aluminum Casting (356.0-T71, Sand Cast)
+356.0-T71, Sand Cast
+Aluminum Casting (357.0-F, Casting Alloy)
+357.0-F, Casting Alloy
+Aluminum Casting (357.0-T6, Permanent Mold Cast)
+357.0-T6, Permanent Mold Cast
+Aluminum Casting (359.0-T6)
+359.0-T6
+Aluminum Casting (359.0-T61, Permanent Mold Cast)
+359.0-T61, Permanent Mold Cast
+Aluminum Casting (359.0-T62, Permanent Mold Cast)
+359.0-T62, Permanent Mold Cast
+Aluminum Casting (360.0-F, Die Casting Alloy)
+360.0-F, Die Casting Alloy
+Aluminum Casting (380.0-F,Die Casting Alloy)
+380.0-F,Die Casting Alloy
+Aluminum Casting (383.0-F, Die Casting Alloy)
+383.0-F, Die Casting Alloy
+Aluminum Casting (384.0-F, Die Casting Alloy)
+384.0-F, Die Casting Alloy
+Aluminum Casting (390.0-F, Die Cast)
+390.0-F, Die Cast
+Aluminum Casting (392.0-F, Die Casting Alloy)
+392.0-F, Die Casting Alloy
+Aluminum Casting (413.0-F, Die Casting Alloy)
+413.0-F, Die Casting Alloy
+Aluminum Casting (443.0-F, Permanent Mold Cast)
+443.0-F, Permanent Mold Cast
+Aluminum Casting (443.0-F, Sand Cast)
+443.0-F, Sand Cast
+Aluminum Casting (512.0-F, Sand Cast)
+512.0-F, Sand Cast
+Aluminum Casting (513.0-F, Permanent Mold Cast)
+513.0-F, Permanent Mold Cast
+Aluminum Casting (514.0-F, Sand Cast)
+514.0-F, Sand Cast
+Aluminum Casting (518.0-F, Die Casting Alloy)
+518.0-F, Die Casting Alloy
+Aluminum Casting (520.0-T4, Sand Cast)
+520.0-T4, Sand Cast
+Aluminum Casting (535.0-F, Sand Cast)
+535.0-F, Sand Cast
+Aluminum Casting (535.0-T5, Sand Cast)
+535.0-T5, Sand Cast
+Aluminum Casting (705.0-F, Sand Cast)
+705.0-F, Sand Cast
+Aluminum Casting (705.0-T5, Permanent Mold Cast)
+705.0-T5, Permanent Mold Cast
+Aluminum Casting (707.0-F, Casting Alloy)
+707.0-F, Casting Alloy
+Aluminum Casting (707.0-T5, Sand Cast)
+707.0-T5, Sand Cast
+Aluminum Casting (707.0-T7, Permanent Mold Cast)
+707.0-T7, Permanent Mold Cast
+Aluminum Casting (707.0-T7, Sand Cast)
+707.0-T7, Sand Cast
+Aluminum Casting (710.0-F, Sand Cast)
+710.0-F, Sand Cast
+Aluminum Casting (710.0-T5, Sand Cast)
+710.0-T5, Sand Cast
+Aluminum Casting (712.0-F, Sand Cast)
+712.0-F, Sand Cast
+Aluminum Casting (712.0-T5, Sand Cast)
+712.0-T5, Sand Cast
+Aluminum Casting (713.0-F, Sand Cast)
+713.0-F, Sand Cast
+Aluminum Casting (713.0-T5, Permanent Mold Cast)
+713.0-T5, Permanent Mold Cast
+Aluminum Casting (713.0-T5, Sand Cast)
+713.0-T5, Sand Cast
+Aluminum Casting (771.0-F, Casting Alloy)
+771.0-F, Casting Alloy
+Aluminum Casting (771.0-T5, Sand Cast)
+771.0-T5, Sand Cast
+Aluminum Casting (771.0-T52, Sand Cast)
+771.0-T52, Sand Cast
+Aluminum Casting (771.0-T53, Sand Cast)
+771.0-T53, Sand Cast
+Aluminum Casting (771.0-T6, Sand Cast)
+771.0-T6, Sand Cast
+Aluminum Casting (771.0-T71, Sand Cast)
+771.0-T71, Sand Cast
+Aluminum Casting (850.0-T5, Permanent Mold Cast)
+850.0-T5, Permanent Mold Cast
+Aluminum Casting (850.0-T5, Sand Cast)
+850.0-T5, Sand Cast
+Aluminum Casting (851.0-T5, Permanent Mold Cast)
+851.0-T5, Permanent Mold Cast
+Aluminum Casting (851.0-T5, Sand Cast)
+851.0-T5, Sand Cast
+Aluminum Casting (851.0-T6, Permanent Mold Cast)
+851.0-T6, Permanent Mold Cast
+Aluminum Casting (852.0-T5, Permanent Mold Cast)
+852.0-T5, Permanent Mold Cast
+Aluminum Casting (852.0-T5, Sand Cast)
+852.0-T5, Sand Cast
+Aluminum Casting (A206.0-T7)
+A206.0-T7
+Aluminum Casting (A242.0-T75)
+A242.0-T75
+Aluminum Casting (A356.0-T6, Sand Cast)
+A356.0-T6, Sand Cast
+Aluminum Casting (A356.0-T61, Permanent Mold Cast)
+A356.0-T61, Permanent Mold Cast
+Aluminum Casting (A357.0-T61, Permanent Mold Cast)
+A357.0-T61, Permanent Mold Cast
+Aluminum Casting (A357.0-T62, Cast)
+A357.0-T62, Cast
+Aluminum Casting (A360.0-F, Die Casting Alloy)
+A360.0-F, Die Casting Alloy
+Aluminum Casting (A380.0-F, Die Casting Alloy)
+A380.0-F, Die Casting Alloy
+Aluminum Casting (A413.0-F, Die Casting Alloy)
+A413.0-F, Die Casting Alloy
+Aluminum Casting (A443.0-O)
+A443.0-O
+Aluminum Casting (A444.0-F, Casting Alloy)
+A444.0-F, Casting Alloy
+Aluminum Casting (A444.0-T4, Permanent Mold Cast)
+A444.0-T4, Permanent Mold Cast
+Aluminum Casting (A535.0-F, Cast)
+A535.0-F, Cast
+Aluminum Casting (B390.0-F, Die Casting Alloy)
+B390.0-F, Die Casting Alloy
+Aluminum Casting (B443.0-F, Permanent Mold Cast)
+B443.0-F, Permanent Mold Cast
+Aluminum Casting (B443.0-F, Sand Cast)
+B443.0-F, Sand Cast
+Aluminum Casting (C355.0-T6, Sand Cast)
+C355.0-T6, Sand Cast
+Aluminum Casting (C355.0-T61, Permanent Mold Cast)
+C355.0-T61, Permanent Mold Cast
+Aluminum Casting (C443.0-F, Die Casting Alloy)
+C443.0-F, Die Casting Alloy
+Beryllium I-220B
+Beryllium I-70A
+Beryllium O-50
+Beryllium S-200F
+Beryllium S-200FH
+Beryllium S-65B
+Bi33-Pb33-Sn33 Fusible Alloy
+Bi35.1-Pb36.4-Sn19.06-Cd9.44 Fusible Alloy
+Bi44.7-Pb22.6-Sn8.3-In19-5.3Cd Solder
+Bi48-Pb28.5-Sn14.5 Fusible Alloy
+Bi49-Pb18-Sn12-In21 Solder
+Bi50-Pb26.7-Sn13.3-Cd10 Fusible Alloy
+Bi50.5-Pb27.8-Sn12.4-Cd9.3 Fusible Alloy
+Bi50.72-Pb30.91-Sn14.97-Cd3.4 Fusible Alloy
+Bi51.6-Pb40.2-Cd8.2 Fusible Alloy
+Bi52.5-Pb32-Sn15.5 Fusible Alloy
+Bi54-Sn26-Cd20 Fusible Alloy
+Bi55.5-Pb45.5 Fusible Alloy
+Bi56-Pb22-Sn22 Fusible Alloy
+Bi58-Sn42 Fusible Alloy
+Bi60-Cd40 Fusible Alloy
+Bi67-Pb16-Sn17 Fusible Alloy
+Bismuth (pure Bi)
+pure Bi
+Co-Cr-W-Ni Alloy
+Cobalt (pure Co)
+pure Co
+Cobalt Alloy S-816 (UNS R30816)
+UNS R30816
+Cobalt alloy (Haynes 188), 0% cold rolled and no solution annealed
+Haynes 188
+Cobalt alloy (Haynes 188), 20% cold rolled and no solution annealed
+Haynes 188
+Cobalt alloy (Haynes 188), 20% cold rolled and solution annealed 1,065C/5min
+Haynes 188
+Cobalt alloy (Haynes 188), 20% cold rolled and solution annealed 1,120C/5min
+Haynes 188
+Cobalt alloy (Haynes 188), 20% cold rolled and solution annealed 1,175C/5min
+Haynes 188
+Cobalt alloy (Haynes 188), 40% cold rolled and no solution annealed
+Haynes 188
+Cobalt alloy (Haynes 188), 40% cold rolled and solution annealed 1,065C/5min
+Haynes 188
+Cobalt alloy (Haynes 188), 40% cold rolled and solution annealed 1,120C/5min
+Haynes 188
+Cobalt alloy (Haynes 188), 40% cold rolled and solution annealed 1,175C/5min
+Haynes 188
+Cobalt alloy (Haynes 188), 650C/8,000h exposure
+Haynes 188
+Cobalt alloy (Haynes 188), 760C/8,000h exposure
+Haynes 188
+Cobalt alloy (Haynes 188), cold rolled and solution annealed
+Haynes 188
+Cobalt alloy (Haynes 188), hot rolled and solution annealed
+Haynes 188
+Cobalt alloy (Haynes 25), 0% cold worked
+Haynes 25
+Cobalt alloy (Haynes 25), 10% cold worked
+Haynes 25
+Cobalt alloy (Haynes 25), 10% cold worked
+Haynes 25
+Cobalt alloy (Haynes 25), 10% cold worked and solution annealed 1,065C/5min
+Haynes 25
+Cobalt alloy (Haynes 25), 10% cold worked and solution annealed 1,120C/5min
+Haynes 25
+Cobalt alloy (Haynes 25), 10% cold worked and solution annealed 1,175C/5min
+Haynes 25
+Cobalt alloy (Haynes 25), 20% cold worked
+Haynes 25
+Cobalt alloy (Haynes 25), 20% cold worked
+Haynes 25
+Cobalt alloy (Haynes 25), 20% cold worked and aged 370C/1h
+Haynes 25
+Cobalt alloy (Haynes 25), 20% cold worked and aged 595C/2h
+Haynes 25
+Cobalt alloy (Haynes 25), 20% cold worked and solution annealed 1,065C/5min
+Haynes 25
+Cobalt alloy (Haynes 25), 20% cold worked and solution annealed 1,120C/5min
+Haynes 25
+Cobalt alloy (Haynes 25), 20% cold worked and solution annealed 1,175C/5min
+Haynes 25
+Cobalt alloy (Haynes 25), hot rolled and solution annealed
+Haynes 25
+Cobalt alloy (Haynes 25), solution annealed
+Haynes 25
+In44-Sn42-14Cd Solder
+In50-Pb50 Solder
+In50-Sn50 Solder
+In52-Sn48 Solder
+In60-Pb40 Solder
+In70-Pb30 Solder
+In70-Pb9.6-Sn15-Cd5.4 Solder
+In74-Cd26 Solder
+In80-Pb15-Ag5 Solder
+In90-Ag10 Solder
+In95-Bi5 Solder
+In97-Ag3 Solder
+Indium (pure In)
+pure In
+Lead (pure Pb)
+pure Pb
+Magnesium Alloy (AE42-F)
+AE42-F
+Magnesium Alloy (AM100A-F)
+AM100A-F
+Magnesium Alloy (AM100A-T4)
+AM100A-T4
+Magnesium Alloy (AM100A-T5)
+AM100A-T5
+Magnesium Alloy (AM100A-T61)
+AM100A-T61
+Magnesium Alloy (AM100A-T7)
+AM100A-T7
+Magnesium Alloy (AM20-F)
+AM20-F
+Magnesium Alloy (AM50A-F)
+AM50A-F
+Magnesium Alloy (AM60A-F)
+AM60A-F
+Magnesium Alloy (AM60B-F)
+AM60B-F
+Magnesium Alloy (AS21-F)
+AS21-F
+Magnesium Alloy (AS21X1)
+AS21X1
+Magnesium Alloy (AS41A-F)
+AS41A-F
+Magnesium Alloy (AS41B-F)
+AS41B-F
+Magnesium Alloy (AS41XA-F)
+AS41XA-F
+Magnesium Alloy (AS41XB-F)
+AS41XB-F
+Magnesium Alloy (AZ10A-F)
+AZ10A-F
+Magnesium Alloy (AZ31B-F)
+AZ31B-F
+Magnesium Alloy (AZ31B-H24)
+AZ31B-H24
+Magnesium Alloy (AZ31B-H26)
+AZ31B-H26
+Magnesium Alloy (AZ31B-O)
+AZ31B-O
+Magnesium Alloy (AZ31C-F)
+AZ31C-F
+Magnesium Alloy (AZ61A-F)
+AZ61A-F
+Magnesium Alloy (AZ63A-F)
+AZ63A-F
+Magnesium Alloy (AZ63A-T4)
+AZ63A-T4
+Magnesium Alloy (AZ63A-T5)
+AZ63A-T5
+Magnesium Alloy (AZ63A-T6)
+AZ63A-T6
+Magnesium Alloy (AZ63A-T7)
+AZ63A-T7
+Magnesium Alloy (AZ80A-F)
+AZ80A-F
+Magnesium Alloy (AZ80A-T5)
+AZ80A-T5
+Magnesium Alloy (AZ80A-T5)
+AZ80A-T5
+Magnesium Alloy (AZ80A-T6)
+AZ80A-T6
+Magnesium Alloy (AZ81A-T4)
+AZ81A-T4
+Magnesium Alloy (AZ91A-F)
+AZ91A-F
+Magnesium Alloy (AZ91B-F)
+AZ91B-F
+Magnesium Alloy (AZ91C-F)
+AZ91C-F
+Magnesium Alloy (AZ91C-T4)
+AZ91C-T4
+Magnesium Alloy (AZ91C-T6)
+AZ91C-T6
+Magnesium Alloy (AZ91D-F)
+AZ91D-F
+Magnesium Alloy (AZ91E-F)
+AZ91E-F
+Magnesium Alloy (AZ91E-T4)
+AZ91E-T4
+Magnesium Alloy (AZ91E-T6)
+AZ91E-T6
+Magnesium Alloy (AZ92A-F)
+AZ92A-F
+Magnesium Alloy (AZ92A-T4)
+AZ92A-T4
+Magnesium Alloy (AZ92A-T5)
+AZ92A-T5
+Magnesium Alloy (AZ92A-T6)
+AZ92A-T6
+Magnesium Alloy (AZ92A-T7)
+AZ92A-T7
+Magnesium Alloy (EQ21-T6)
+EQ21-T6
+Magnesium Alloy (EZ33A-T5)
+EZ33A-T5
+Magnesium Alloy (HK31A-H24)
+HK31A-H24
+Magnesium Alloy (HK31A-O)
+HK31A-O
+Magnesium Alloy (HK31A-T6)
+HK31A-T6
+Magnesium Alloy (HM21A-F)
+HM21A-F
+Magnesium Alloy (HM21A-T5)
+HM21A-T5
+Magnesium Alloy (HM21A-T8)
+HM21A-T8
+Magnesium Alloy (HM31A-F)
+HM31A-F
+Magnesium Alloy (HM31A-O)
+HM31A-O
+Magnesium Alloy (HM31A-T5)
+HM31A-T5
+Magnesium Alloy (HZ32A-T5)
+HZ32A-T5
+Magnesium Alloy (K1A-F)
+K1A-F
+Magnesium Alloy (M1A-F)
+M1A-F
+Magnesium Alloy (M1A-H18)
+M1A-H18
+Magnesium Alloy (M1A-O)
+M1A-O
+Magnesium Alloy (QE22A-T6)
+QE22A-T6
+Magnesium Alloy (QH21A-T6)
+QH21A-T6
+Magnesium Alloy (WE43-T6)
+WE43-T6
+Magnesium Alloy (WE54-T6)
+WE54-T6
+Magnesium Alloy (ZC63-T6)
+ZC63-T6
+Magnesium Alloy (ZC71-F)
+ZC71-F
+Magnesium Alloy (ZC71-T5)
+ZC71-T5
+Magnesium Alloy (ZC71-T6)
+ZC71-T6
+Magnesium Alloy (ZC71-T6)
+ZC71-T6
+Magnesium Alloy (ZE41A-T5)
+ZE41A-T5
+Magnesium Alloy (ZE63A-T6)
+ZE63A-T6
+Magnesium Alloy (ZH62A-T5)
+ZH62A-T5
+Magnesium Alloy (ZK21A-F)
+ZK21A-F
+Magnesium Alloy (ZK40A-T5)
+ZK40A-T5
+Magnesium Alloy (ZK51A-T5)
+ZK51A-T5
+Magnesium Alloy (ZK60A-F)
+ZK60A-F
+Magnesium Alloy (ZK60A-T5)
+ZK60A-T5
+Magnesium Alloy (ZK60A-T5)
+ZK60A-T5
+Magnesium Alloy (ZK60A-T6)
+ZK60A-T6
+Magnesium Alloy (ZK61A-T5)
+ZK61A-T5
+Magnesium Alloy (ZK61A-T5)
+ZK61A-T5
+Magnesium Alloy (ZK61A-T6)
+ZK61A-T6
+Magnesium, Annealed
+Magnesium, Cast
+Magnesium, Extruded
+Magnesium, Hard-Rolled
+Molybdenum (pure Mo)
+pure Mo
+Nickek Alloy (INCONEL 600), annealed
+INCONEL 600
+Nickek Alloy (INCONEL 600), as-rolled
+INCONEL 600
+Nickek Alloy (INCONEL 601), annealed
+INCONEL 601
+Nickek Alloy (INCONEL 601), as-rolled
+INCONEL 601
+Nickek Alloy (INCONEL 617), cold or hot rolled
+INCONEL 617
+Nickek Alloy (INCONEL 625), cold rolled or annealed
+INCONEL 625
+Nickek Alloy (INCONEL 686), single phase austenitic
+INCONEL 686
+Nickek Alloy (INCONEL 690)
+INCONEL 690
+Nickek Alloy (INCONEL 706), precipitation hardenable
+INCONEL 706
+Nickek Alloy (INCONEL 718), cold rolled or annealed
+INCONEL 718
+Nickek Alloy (INCONEL 751), precipitation heat-treated
+INCONEL 751
+Nickek Alloy (INCONEL 754), oxide dispersion strengthened
+INCONEL 754
+Nickek Alloy (INCONEL X-750), precipitation heat-treated
+INCONEL X-750
+Nickel (pure Ni)
+pure Ni
+Nickel Alloy (Hastelloy C-2000), Annealed
+Hastelloy C-2000
+Nickel Alloy (Hastelloy C-276), solution heat treated
+Hastelloy C-276
+Nickel Alloy (Haynes 214), 100 hours exposure at 760°C
+Haynes 214
+Nickel Alloy (Haynes 214), 100 hours exposure at 870°C
+Haynes 214
+Nickel Alloy (Haynes 214), 100 hours exposure at 980°C
+Haynes 214
+Nickel Alloy (Haynes 214), cold rolled and annealed
+Haynes 214
+Nickel Alloy (Haynes 214), hot rolled solution annealed
+Haynes 214
+Nickel Alloy (Haynes 230), 10% cold reduction
+Haynes 230
+Nickel Alloy (Haynes 230), 30% cold reduction
+Haynes 230
+Nickel Alloy (Haynes 230), 50% cold reduction
+Haynes 230
+Nickel Alloy (Haynes 230), plate and sheet
+Haynes 230
+Nickel Alloy (Haynes 230), vacuum investment as-cast
+Haynes 230
+Nickel Alloy (Haynes 242), cold rolled, annealed
+Haynes 242
+Nickel Alloy (Haynes 242), cold rolled, annealed and aged
+Haynes 242
+Nickel Alloy (Haynes 242), hot rolled, annealed and aged
+Haynes 242
+Nickel Alloy (Haynes 263), cold rolled, solution treated and aged
+Haynes 263
+Nickel Alloy (Haynes 625), 10% cold reduction
+Haynes 625
+Nickel Alloy (Haynes 625), 30% cold reduction
+Haynes 625
+Nickel Alloy (Haynes 625), 50% cold reduction
+Haynes 625
+Nickel Alloy (Haynes 625), cold rolled and annealed
+Haynes 625
+Nickel Alloy (Haynes 625), hot rolled and annealed
+Haynes 625
+Nickel Alloy (Haynes 718), cold rolled, solution-treated and aged
+Haynes 718
+Nickel Alloy (Haynes HR-160), aged 1,000 hours at 649°C
+Haynes HR-160
+Nickel Alloy (Haynes HR-160), aged 1,000 hours at 760°C
+Haynes HR-160
+Nickel Alloy (Haynes HR-160), aged 4,000 hours at 649°C
+Haynes HR-160
+Nickel Alloy (Haynes HR-160), aged 4,000 hours at 760°C
+Haynes HR-160
+Nickel Alloy (Haynes HR-160), annealed
+Haynes HR-160
+Nickel Alloy (Haynes HR-160), hot rolled and solution annealed
+Haynes HR-160
+Nickel Alloy (Haynes HR-160), solution annealed sheet
+Haynes HR-160
+Niobium (pure Nb), Annealed
+pure Nb
+Niobium (pure Nb), wrought
+pure Nb
+Pb-Ca-Sn (UNS L50780)
+UNS L50780
+Pb-Ca-Sn (UNS L50790)
+UNS L50790
+Pb-Cu (UNS L51125)
+UNS L51125
+Pb-Cu, (UNS L51121)
+UNS L51121
+Pb-Sb (UNS L52605)
+UNS L52605
+Pb-Te-Cu (UNS L51123)
+UNS L51123
+Pb37-Sn63 Solder
+Pb37.5-Sn37.5-In25 Solder
+Pb40-Sn60 Solder
+Pb50-Sn50 Solder (UNS L55030)
+UNS L55030
+Pb60-In40 Solder
+Pb60-Sn40 Solder (UNS L54915)
+UNS L54915
+Pb70-Sn30 Solder (UNS L54820)
+UNS L54820
+Pb80-Sn20 Solder (UNS L54711)
+UNS L54711
+Pb90-In5-Ag5 Solder
+Pb90-Sn10 Solder (UNS L54520)
+UNS L54520
+Pb95-In5 Solder
+Pb95-Sn5 Solder (UNS L54321)
+UNS L54321

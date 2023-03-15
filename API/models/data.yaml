@@ -1,0 +1,9 @@
+train: data/images/train # path to train folder
+val: data/images/val # path to val folder
+test: data/images/test
+
+# number of classes
+nc: 2
+
+# class names
+names: ["Exposed_Pulp","Not_Exposed_Pulp"]
